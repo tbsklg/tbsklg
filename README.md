@@ -14,8 +14,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-<h2 align="center">Stats</h2>
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=tbsklg&theme=dark" alt="Github stats"/>
-</p>
