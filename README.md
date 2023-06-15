@@ -1,5 +1,5 @@
 <h2 align="center">Tobias Klug</h2>
-<p align="center">I do web development, and I am currently working at codecentric. I like mob programming, Haskell and solving Kata's from codwars.</p>
+<p align="center">I do web development, and I am currently working at codecentric. I like mob programming, Haskell and solving Kata's from codewars.</p>
 <h2 align="center">Languages and Technologies</h2>
 <div id="content" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
