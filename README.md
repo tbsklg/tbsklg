@@ -13,9 +13,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbsklg&langs_count=100&layout=compact&theme=gruvbox" />
 </a>  
-
-### When I'm not coding...  
-You can probably find me:  
-- 🧗‍♂️ Climbing  
-- 🚵 Biking  
-- 🎮 Gaming  
